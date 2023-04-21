@@ -5,4 +5,4 @@ Steps To Set-Up Server:\
 \
 Steps For Clients:\
 &emsp;-> Download Prism Launcher from: https://github.com/Diegiwg/PrismLauncher-Cracked \
-&emsp;-> In Prism Launcher: Add Instance -> Curse Forge(Left menu) -> M-Tech\
+&emsp;-> In Prism Launcher: Add Instance -> Curse Forge(Left menu) -> M-Tech

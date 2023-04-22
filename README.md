@@ -5,6 +5,8 @@ Steps To Set-Up Server:\
 &emsp;-> Download Server Files from: https://www.curseforge.com/minecraft/modpacks/m-tech-1-19-2 \
 \
 Steps For Clients:\
-&emsp;-> Download Prism Launcher from: https://github.com/Diegiwg/PrismLauncher-Cracked \
+&emsp;-> Download Prism Launcher from: https://www.mediafire.com/file/2fcg01rkools1u6/PrismLauncher-Windows-MSVC-Portable-5fcb9d2-Debug.zip/file ( Source: https://github.com/Diegiwg/PrismLauncher-Cracked ) \
 &emsp;-> In Prism Launcher: Add Instance -> Curse Forge(Left menu) -> Look for and select "M-Tech" \
+
+EOF
 
